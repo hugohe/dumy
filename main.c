@@ -9,6 +9,9 @@ int main()
 
         x++;
         x++;
+        x++;
 
- 	return 0;
+        x-=5;
+
+        return 0;
 }
