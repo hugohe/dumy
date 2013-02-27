@@ -12,6 +12,7 @@ int main()
         x++;
 
         x-=5;
+        xxxxxx;
 
         return 0;
 }
