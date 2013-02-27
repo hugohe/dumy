@@ -8,6 +8,9 @@ int main()
         printf("local modify\r\n");
 
         x++;
+        x++;
+        x++;
 
- 	return 0;
+
+        return 0;
 }
